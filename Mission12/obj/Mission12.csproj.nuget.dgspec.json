@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/abbieluper/Documents/GitHub/mission12/Mission12/Mission12.csproj": {}
+    "/Users/alismith/Documents/mission12/Mission12/Mission12.csproj": {}
   },
   "projects": {
-    "/Users/abbieluper/Documents/GitHub/mission12/Mission12/Mission12.csproj": {
+    "/Users/alismith/Documents/mission12/Mission12/Mission12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abbieluper/Documents/GitHub/mission12/Mission12/Mission12.csproj",
+        "projectUniqueName": "/Users/alismith/Documents/mission12/Mission12/Mission12.csproj",
         "projectName": "Mission12",
-        "projectPath": "/Users/abbieluper/Documents/GitHub/mission12/Mission12/Mission12.csproj",
-        "packagesPath": "/Users/abbieluper/.nuget/packages/",
-        "outputPath": "/Users/abbieluper/Documents/GitHub/mission12/Mission12/obj/",
+        "projectPath": "/Users/alismith/Documents/mission12/Mission12/Mission12.csproj",
+        "packagesPath": "/Users/alismith/.nuget/packages/",
+        "outputPath": "/Users/alismith/Documents/mission12/Mission12/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/abbieluper/.config/NuGet/NuGet.Config"
+          "/Users/alismith/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
